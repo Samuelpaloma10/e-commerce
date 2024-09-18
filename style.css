@@ -1,7 +1,6 @@
 .container{
-    height: 500px;
-    width: 500px;
-    background-color: rgb(146, 107, 57);
+    height: 84vh;
+    width: 100vh;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
@@ -9,4 +8,8 @@
 .card-body{
     height: 200px;
     text-align: center;
+}
+
+.h1{
+
 }
