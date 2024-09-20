@@ -10,6 +10,8 @@ for(let i = 1; i <10; i++){
   <img src="https://66d9ee6caa07a954166f10ed--gregarious-melba-cacdba.netlify.app/${i}.jpg" class="card-img-top" alt="...">
   <div class="card-body">
     <p class="card-text">Card tittle ${i}.</p>
+
+    <button href="productos.html" type="button" class="btn btn-primary" >Ver más</button>
   </div>
 </div>`
 )
